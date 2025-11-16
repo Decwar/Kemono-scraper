@@ -143,7 +143,7 @@ retry-interval: 15
 Cloning the repository:
 
 ```bash
-git clone https://github.com/elvis972602/Kemono-scraper
+git clone https://github.com/BlankIsDumb/Kemono-scraper.git
 cd Kemono-scraper/main
 ```
 
